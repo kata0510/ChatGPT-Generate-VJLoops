@@ -23,3 +23,5 @@
 - 回転条件2: いずれの列も回転速度が異なる
 - 回転条件3: 特定の秒数ですべての四角の向きが正面に戻る
 ```
+![スクリーンショット 2023-07-31 0 27 12](https://github.com/kata0510/ChatGPT-Generate-VJLoops/assets/6285554/7f3d9d2e-4a45-481b-8218-8bb9b8af7695)
+![スクリーンショット 2023-08-13 1 05 54](https://github.com/kata0510/ChatGPT-Generate-VJLoops/assets/6285554/80f09ede-db87-4445-b0cc-77d05767b2da)
