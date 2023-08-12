@@ -14,3 +14,4 @@ Processing(バージョン4)を用いて動画を作成します。
 オブジェクトの設定
 - 走査線のようなノイズを作る
 ```
+![スクリーンショット 2023-08-12 22 19 04](https://github.com/kata0510/ChatGPT-Generate-VJLoops/assets/6285554/88db9831-5c67-43d6-ba06-ddd8409f2788)
